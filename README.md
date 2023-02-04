@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jason Nikas</h1>
 <h3 align="center">A Java developer and curious traveler</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acrispycookie&show_icons=true&locale=en" alt="acrispycookie" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acrispycookie&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="acrispycookie" /></p>
 
 - 🔭 I’m currently working on **CrispyModeration**
 
 - 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
 
-- 📫 How to reach me **nikasjason1@gmail.com**
-
 - 📄 Know about my experiences [Coming soon](Coming soon)
+
+- 📫 How to reach me **nikasjason1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
