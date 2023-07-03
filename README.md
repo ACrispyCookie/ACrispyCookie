@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Nikas</h1>
 <h3 align="center">Java developer</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acrispycookie&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="acrispycookie" /></p>
-
 - 🔭 I’m currently working on **CrispyModeration**
 
 - 👨‍💻 Know more about me at https://acrispycookie.dev/
