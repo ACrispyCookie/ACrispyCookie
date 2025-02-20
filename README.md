@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jason Nikas</h1>
 <h3 align="center">Java developer</h3>
 
-- 🔭 I’m currently working on **CrispyModeration**
+- 🔭 I’m currently working on **CrispyPluginAPI**
 
 - 👨‍💻 Know more about me at https://acrispycookie.dev/
 
