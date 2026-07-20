@@ -1,0 +1,71 @@
+<svg width="1100" height="360" viewBox="0 0 1100 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Jason Nikas profile header: GPGPU and homelab">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1100" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="0.50" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0f2742"/>
+    </linearGradient>
+    <radialGradient id="blueGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(915 70) rotate(142) scale(360 220)">
+      <stop stop-color="#58a6ff" stop-opacity="0.36"/>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(170 300) rotate(-25) scale(390 220)">
+      <stop stop-color="#bc8cff" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#bc8cff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="-18" y="-18" width="1136" height="396" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000000" flood-opacity="0.28"/>
+    </filter>
+    <style>
+      .sans{font-family:Inter,Segoe UI,Arial,sans-serif}
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+      .pill{font-size:14px;font-weight:850;fill:#dbeafe;letter-spacing:.7px}
+      .subtitle{font-size:17px;font-weight:700;fill:#c9d1d9}
+      .chip{font-size:15px;font-weight:850;fill:#e5edf7}
+      .muted{fill:#8b949e}
+    </style>
+  </defs>
+
+  <rect x="18" y="18" width="1064" height="324" rx="32" fill="url(#bg)" stroke="#30363d" stroke-width="2.4" filter="url(#softShadow)"/>
+  <rect x="18" y="18" width="1064" height="324" rx="32" fill="url(#blueGlow)"/>
+  <rect x="18" y="18" width="1064" height="324" rx="32" fill="url(#purpleGlow)"/>
+
+  <g opacity="0.30">
+    <path d="M670 72h205c45 0 73 28 73 73v28c0 45 28 73 73 73h38" stroke="#58a6ff" stroke-width="2.3"/>
+    <path d="M700 116h136c31 0 50 19 50 50v8c0 31 19 50 50 50h78" stroke="#bc8cff" stroke-width="2.3"/>
+    <path d="M705 165h122c24 0 39 15 39 39s15 39 39 39h84" stroke="#3fb950" stroke-width="2.3"/>
+    <circle cx="670" cy="72" r="5.5" fill="#58a6ff"/>
+    <circle cx="700" cy="116" r="5.5" fill="#bc8cff"/>
+    <circle cx="705" cy="165" r="5.5" fill="#3fb950"/>
+    <circle cx="948" cy="173" r="5.5" fill="#58a6ff"/>
+    <circle cx="1014" cy="224" r="5.5" fill="#bc8cff"/>
+    <circle cx="989" cy="243" r="5.5" fill="#3fb950"/>
+  </g>
+
+  <g transform="translate(70 58)">
+    <rect x="0" y="0" width="220" height="38" rx="19" fill="#58a6ff" opacity="0.16"/>
+    <text x="110" y="25" text-anchor="middle" class="mono pill">5th year ECE student</text>
+
+    <text x="0" y="98" class="sans" font-size="52" font-weight="850" fill="#f8fafc">Jason Nikas</text>
+    <text x="2" y="136" class="mono subtitle">software ⇄ hardware · graphics · networks · infrastracture </text>
+  </g>
+
+  <g transform="translate(70 215)">
+    <rect x="0" y="0" width="474" height="46" rx="23" fill="#161b22" stroke="#30363d" stroke-width="1.6"/>
+    <circle cx="30" cy="23" r="7" fill="#58a6ff"/>
+    <text x="54" y="25" dominant-baseline="middle" class="mono chip">GPGPU: RISC-V architecture + software stack</text>
+
+    <rect x="0" y="62" width="474" height="46" rx="23" fill="#161b22" stroke="#30363d" stroke-width="1.6"/>
+    <circle cx="30" cy="85" r="7" fill="#3fb950"/>
+    <text x="54" y="87" dominant-baseline="middle" class="mono chip">Homelab: infrastructure + automation</text>
+  </g>
+
+  <g transform="translate(750 82)">
+    <rect x="0" y="0" width="274" height="204" rx="26" fill="#0d1117" stroke="#30363d" stroke-width="1.7" opacity="0.88"/>
+    <text x="137" y="52" text-anchor="middle" class="mono" font-size="15" fill="#8b949e" letter-spacing="4">CURRENT FOCUS</text>
+    <circle cx="70" cy="104" r="7" fill="#58a6ff"/>
+    <text x="92" y="106" dominant-baseline="middle" class="sans" font-size="31" font-weight="850" fill="#f0f6fc">GPGPU</text>
+    <circle cx="70" cy="150" r="7" fill="#3fb950"/>
+    <text x="92" y="152" dominant-baseline="middle" class="sans" font-size="31" font-weight="850" fill="#f0f6fc">Homelab</text>
+  </g>
+</svg>
