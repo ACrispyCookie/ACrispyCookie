@@ -1,0 +1,19 @@
+<svg width="900" height="600" viewBox="0 0 900 600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Operating systems project card">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="900" y2="600" gradientUnits="userSpaceOnUse"><stop stop-color="#0d1117"/><stop offset="1" stop-color="#111827"/></linearGradient>
+    <filter id="shadow" x="-18" y="-18" width="936" height="636" color-interpolation-filters="sRGB"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.24"/></filter>
+    <style>.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.sans{font-family:Inter,Segoe UI,Arial,sans-serif}</style>
+  </defs>
+  <rect x="22" y="22" width="856" height="556" rx="34" fill="url(#card)" stroke="#30363d" stroke-width="3" filter="url(#shadow)"/>
+  <rect x="232" y="60" width="436" height="62" rx="31" fill="#ff7b72" opacity="0.19"/>
+  <text x="450" y="92" text-anchor="middle" dominant-baseline="middle" class="mono" font-size="28" font-weight="820" fill="#dbeafe" letter-spacing="0.65">LINUX / SYSTEMS</text>
+  <text x="450" y="190" text-anchor="middle" dominant-baseline="middle" class="sans" font-size="68" font-weight="830" fill="#f8fafc">Operating</text>
+  <text x="450" y="267" text-anchor="middle" dominant-baseline="middle" class="sans" font-size="68" font-weight="830" fill="#f8fafc">Systems</text>
+  <text x="450" y="340" text-anchor="middle" dominant-baseline="middle" class="mono" font-size="31" fill="#cbd5e1">kernel, scheduler, and filesystem work</text>
+  <text x="450" y="402" text-anchor="middle" dominant-baseline="middle" class="mono" font-size="27" fill="#94a3b8">kernel module · custom system call</text>
+  <text x="450" y="446" text-anchor="middle" dominant-baseline="middle" class="mono" font-size="27" fill="#94a3b8">priority scheduler · virtualization basics</text>
+  <text x="450" y="490" text-anchor="middle" dominant-baseline="middle" class="mono" font-size="27" fill="#94a3b8">compressing FUSE filesystem</text>
+  <circle cx="450" cy="550" r="8" fill="#ff7b72" opacity="0.65"/>
+  <circle cx="422" cy="550" r="5.5" fill="#ff7b72" opacity="0.28"/>
+  <circle cx="478" cy="550" r="5.5" fill="#ff7b72" opacity="0.28"/>
+</svg>

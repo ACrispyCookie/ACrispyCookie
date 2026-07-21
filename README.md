@@ -37,6 +37,10 @@ I have also explored security from multiple angles, including hardware security 
 <td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE415-High-Performance-Computing"><img src="assets/cards/hpc.svg" alt="HPC project card" width="100%" /></a></td>
 </tr>
 <tr>
+<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE433-Computer-Graphics"><img src="assets/cards/graphics.svg" alt="Computer graphics project card" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE318-Operating-Systems"><img src="assets/cards/os.svg" alt="Operating systems project card" width="100%" /></a></td>
+</tr>
+<tr>
 <td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE348-Distributed-Systems"><img src="assets/cards/distributed.svg" alt="Distributed systems project card" width="100%" /></a></td>
 <td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE455-Hardware-Security"><img src="assets/cards/security.svg" alt="Hardware security project card" width="100%" /></a></td>
 </tr>
