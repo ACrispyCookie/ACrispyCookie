@@ -56,8 +56,8 @@ I have also explored security from multiple angles, including hardware security 
 | **FPGA / embedded / digital** | [ECE333 Digital Systems Lab](https://github.com/ACrispyCookie/ECE333-Digital-Systems-Lab), [ECE340 Embedded Systems](https://github.com/ACrispyCookie/ECE340-Embedded-Systems), [ECE219 Computer Organization](https://github.com/ACrispyCookie/ECE219-Computer-Organization) |
 | **Security + wireless** | [ECE455 Hardware Security](https://github.com/ACrispyCookie/ECE455-Hardware-Security), [ECE436 Wireless Communications](https://github.com/ACrispyCookie/ECE436-Wireless-Communications) |
 | **Graphics** | [ECE433 Computer Graphics](https://github.com/ACrispyCookie/ECE433-Computer-Graphics) |
-| **Minecraft / Java tooling** | [DynamicDisplays](https://github.com/ACrispyCookie/DynamicDisplays), [CrispyPluginAPI](https://github.com/ACrispyCookie/CrispyPluginAPI), Colony plugin repos |
-| **General tooling** | [KoukBot](https://github.com/ACrispyCookie/KoukBot), [AutoRapidTest](https://github.com/ACrispyCookie/AutoRapidTest) |
+| **Minecraft / Java tooling** | [DynamicDisplays](https://github.com/ACrispyCookie/DynamicDisplays), [CrispyPluginAPI](https://github.com/ACrispyCookie/CrispyPluginAPI), [CrispyCommons](https://github.com/ACrispyCookie/CrispyCommons), [ColonyModeration](https://github.com/ACrispyCookie/ColonyModeration), [ColonySkyblockCore](https://github.com/ACrispyCookie/ColonySkyblockCore), [ColonyHubCore](https://github.com/ACrispyCookie/ColonyHubCore), [ColonyVikingItems](https://github.com/ACrispyCookie/ColonyVikingItems), [ColonyHubCore](https://github.com/ACrispyCookie/ColonyHubCore), and many more [minecraft projects](https://acrispycookie.dev) |
+| **General tooling** | [KoukBot](https://github.com/ACrispyCookie/KoukBot), [AutoRapidTest](https://github.com/ACrispyCookie/AutoRapidTest), [GoWin-Docker-Image](https://github.com/ACrispyCookie/GoWin-Docker-Image), [dotfiles](https://github.com/ACrispyCookie/dotfiles) |
 
 ## Technologies and activity
 
@@ -66,22 +66,42 @@ I have also explored security from multiple angles, including hardware security 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,mysql,mongodb,postgres,redis,sqlite,cloudflare,raspberrypi,nginx&theme=dark&perline=11" alt="Linux, Docker, Git, MySQL, MongoDB, PostgreSQL, Redis, SQLite, Cloudflare, Raspberry Pi, Nginx" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,mysql,mongodb,postgres,sqlite,cloudflare,raspberrypi,nginx&theme=dark&perline=10" alt="Linux, Docker, Git, MySQL, MongoDB, PostgreSQL, SQLite, Cloudflare, Raspberry Pi, Nginx" />
 </p>
 
 <p align="center">
-  <img height="42" src="https://cdn.simpleicons.org/riscv/58A6FF" alt="RISC-V" />&nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/nvidia/76B900" alt="CUDA / NVIDIA" />&nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/opengl/5586A4" alt="OpenGL" />&nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/amd/ED1C24" alt="AMD / Vivado / Vitis" />&nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/proxmox/E57000" alt="Proxmox" />&nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/spigotmc/ED8106" alt="Spigot" />&nbsp;&nbsp;
-  <img height="42" src="https://cdn.simpleicons.org/gnu/A42E2B" alt="GNU Radio / GNU tooling" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white" alt="Pi-hole" />
+  <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant" />
+  <img src="https://img.shields.io/badge/Pterodactyl-10539F?style=for-the-badge&logo=pterodactyl&logoColor=white" alt="Pterodactyl" />
 </p>
 
 <p align="center">
-  <strong>RISC-V · Verilog/SystemVerilog · Vivado/Vitis · MATLAB · GNU Radio/SDR · OpenMP/OpenCL</strong><br />
-  <strong>ARM/Zynq · MIPS assembly · POSIX/pthreads · FUSE · Django · Spigot/Bukkit/Paper · Bungeecord</strong>
+<img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" alt="RISC-V" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/OpenMP-0B5CAD?style=for-the-badge&logo=openmp&logoColor=white" alt="OpenMP" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Vivado%20/%20Vitis-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="Vivado / Vitis" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white" alt="Spigot" />
+  <img src="https://img.shields.io/badge/Bungeecord-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white" alt="Bungeecord" />
+  <img src="https://img.shields.io/badge/GNU%20Radio-A42E2B?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />
+  <img src="https://img.shields.io/badge/Verilog-4B5563?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
+  <img src="https://img.shields.io/badge/SystemVerilog-4B5563?style=for-the-badge&logo=verilog&logoColor=white" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OpenCL-5586A4?style=for-the-badge&logo=opencl&logoColor=white" alt="OpenCL" />
+  <img src="https://img.shields.io/badge/ARM%20/%20Zynq-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM / Zynq" />
+  <img src="https://img.shields.io/badge/MIPS%20assembly-6B7280?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="MIPS assembly" />
+  <img src="https://img.shields.io/badge/POSIX%20/%20pthreads-111827?style=for-the-badge&logo=linux&logoColor=white" alt="POSIX / pthreads" />
+  <img src="https://img.shields.io/badge/FUSE-111827?style=for-the-badge&logo=linux&logoColor=white" alt="FUSE" />
 </p>
 
 <p align="center">
