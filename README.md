@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+a+RISC-V-core+GPGPU+with+software+support;Exploring+systems+from+Java+plugins+to+FPGA+hardware;CUDA+%C2%B7+graphics+%C2%B7+Linux+%C2%B7+wireless+%C2%B7+security+%C2%B7+distributed+systems;Homelab%2C+infrastructure%2C+and+projects+just+for+fun" alt="Typing SVG" />
 </p>
 
-[website](https://acrispycookie.dev/) · [linkedin](https://www.linkedin.com/in/jason-nikas-b64163255) · [email](mailto:nikasjason1@gmail.com) · [repositories](https://github.com/ACrispyCookie?tab=repositories)
+[website](https://njason.dev/) · [linkedin](https://www.linkedin.com/in/jason-nikas-b64163255) · [email](mailto:nikasjason1@gmail.com) · [repositories](https://github.com/ACrispyCookie?tab=repositories)
 
 I started programming through **Java** and **Spigot**, mostly because I wanted to build my own [Minecraft plugins](https://acrispycookie.dev/) instead of only using what already existed. I fell in love with that process almost immediately. Taking an idea, turning it into a working system, and then digging deeper to understand how every piece behaved. After around five years of plugin work, server tooling, APIs, and gameplay systems, that curiosity had grown into a real passion for exploring systems, which I carried into my Electrical & Computer Engineering studies at the **University of Thessaly**, initially expecting to follow mostly the software side of the field.
 
