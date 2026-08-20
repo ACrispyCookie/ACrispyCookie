@@ -9,5 +9,5 @@
   <text x="44" y="52" class="mono title">GitHub snapshot</text>
   <text x="44" y="82" class="mono small">public repos · practical systems projects · current focus: GPGPU + homelab</text>
   <g transform="translate(44 116)"><rect width="156" height="84" rx="10" fill="#161b22" stroke="#30363d"/><text x="18" y="32" class="label">public repos</text><text x="18" y="66" class="value" fill="#58a6ff">36</text></g><g transform="translate(232 116)"><rect width="156" height="84" rx="10" fill="#161b22" stroke="#30363d"/><text x="18" y="32" class="label">stars</text><text x="18" y="66" class="value" fill="#d29922">22</text></g><g transform="translate(420 116)"><rect width="156" height="84" rx="10" fill="#161b22" stroke="#30363d"/><text x="18" y="32" class="label">forks</text><text x="18" y="66" class="value" fill="#3fb950">1</text></g><g transform="translate(608 116)"><rect width="156" height="84" rx="10" fill="#161b22" stroke="#30363d"/><text x="18" y="32" class="label">followers</text><text x="18" y="66" class="value" fill="#bc8cff">11</text></g>
-  <text x="44" y="232" class="mono small">top public languages: Java · C · Python · Verilog · C++ · latest public push: 2026-08-19</text>
+  <text x="44" y="232" class="mono small">top public languages: Java · C · Python · Verilog · C++ · latest public push: 2026-08-20</text>
 </svg>
