@@ -2,17 +2,17 @@
   <img src="assets/profile-header.svg" alt="Jason Nikas. I build systems from code down to hardware: GPUs on FPGAs, CUDA programs, filesystems and distributed runtimes. Currently working on GPGPU v2 and my homelab." />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ACrispyCookie/ACrispyCookie/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ACrispyCookie/ACrispyCookie/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ACrispyCookie/ACrispyCookie/output/github-snake.svg" />
-</picture>
-
 ## About me
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hanken+Grotesk&size=22&duration=2800&pause=900&color=9DB6B8&center=true&vCenter=true&width=950&lines=Building+a+RISC-V+GPGPU+with+a+software+stack;Exploring+systems+from+Java+plugins+to+FPGA+hardware;CUDA+%C2%B7+graphics+%C2%B7+Linux+%C2%B7+wireless+%C2%B7+security+%C2%B7+distributed+systems;Homelab%2C+infrastructure%2C+and+side+projects" alt="Typing SVG" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ACrispyCookie/ACrispyCookie/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ACrispyCookie/ACrispyCookie/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ACrispyCookie/ACrispyCookie/output/github-snake.svg" />
+</picture>
 
 [website](https://njason.dev/) · [linkedin](https://www.linkedin.com/in/jason-nikas-b64163255) · [email](mailto:nikasjason1@gmail.com) · [repositories](https://github.com/ACrispyCookie?tab=repositories)
 
