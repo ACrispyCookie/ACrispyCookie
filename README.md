@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-header.svg" alt="Jason Nikas profile header" />
+  <img src="assets/profile-header.svg" alt="Jason Nikas. I build systems from code down to hardware: GPUs on FPGAs, CUDA programs, filesystems and distributed runtimes. Currently working on GPGPU v2 and my homelab." />
 </p>
 
 <picture>
@@ -11,7 +11,7 @@
 ## About me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=Building+a+RISC-V-core+GPGPU+with+software+support;Exploring+systems+from+Java+plugins+to+FPGA+hardware;CUDA+%C2%B7+graphics+%C2%B7+Linux+%C2%B7+wireless+%C2%B7+security+%C2%B7+distributed+systems;Homelab%2C+infrastructure%2C+and+projects+just+for+fun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Hanken+Grotesk&size=22&duration=2800&pause=900&color=9DB6B8&center=true&vCenter=true&width=950&lines=Building+a+RISC-V+GPGPU+with+a+software+stack;Exploring+systems+from+Java+plugins+to+FPGA+hardware;CUDA+%C2%B7+graphics+%C2%B7+Linux+%C2%B7+wireless+%C2%B7+security+%C2%B7+distributed+systems;Homelab%2C+infrastructure%2C+and+side+projects" alt="Typing SVG" />
 </p>
 
 [website](https://njason.dev/) · [linkedin](https://www.linkedin.com/in/jason-nikas-b64163255) · [email](mailto:nikasjason1@gmail.com) · [repositories](https://github.com/ACrispyCookie?tab=repositories)
@@ -34,34 +34,34 @@ I have also explored security from multiple angles, including hardware security 
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/GPGPU"><img src="assets/cards/gpgpu.svg" alt="GPGPU project card" width="100%" /></a></td>
-<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE415-High-Performance-Computing"><img src="assets/cards/hpc.svg" alt="HPC project card" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/GPGPU"><img src="assets/cards/gpgpu.svg" alt="RISC-V GPGPU: our 32-core RISC-V GPGPU, running on a real FPGA" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE415-High-Performance-Computing"><img src="assets/cards/hpc.svg" alt="N-body on GPUs: 2,910× faster than the single-core version" width="100%" /></a></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE433-Computer-Graphics"><img src="assets/cards/graphics.svg" alt="Computer graphics project card" width="100%" /></a></td>
-<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE318-Operating-Systems"><img src="assets/cards/os.svg" alt="Operating systems project card" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE433-Computer-Graphics"><img src="assets/cards/graphics.svg" alt="Explorable 3D house: a 3D engine we wrote from scratch in C++ and OpenGL" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE318-Operating-Systems"><img src="assets/cards/os.svg" alt="Operating systems: a deduplicating filesystem and a scheduler that never starves" width="100%" /></a></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE348-Distributed-Systems"><img src="assets/cards/distributed.svg" alt="Distributed systems project card" width="100%" /></a></td>
-<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE455-Hardware-Security"><img src="assets/cards/security.svg" alt="Hardware security project card" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE348-Distributed-Systems"><img src="assets/cards/distributed.svg" alt="Distributed runtime: programs move between machines while they run" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE455-Hardware-Security"><img src="assets/cards/security.svg" alt="RAMBO air-gap: read an offline PC's data from its RAM's radio noise" width="100%" /></a></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/ECE333-Digital-Systems-Lab"><img src="assets/cards/digital.svg" alt="Digital systems lab project card" width="100%" /></a></td>
-<td width="50%" align="center"><a href="https://github.com/ACrispyCookie?tab=repositories&q=&type=&language=java"><img src="assets/cards/minecraft.svg" alt="Minecraft and Java ecosystem project card" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://github.com/ACrispyCookie/DVD-Logo-FPGA"><img src="assets/cards/digital.svg" alt="DVD Logo FPGA: a hardware DVD logo you steer by tilting the board" width="100%" /></a></td>
+<td width="50%" align="center"><a href="https://acrispycookie.dev/"><img src="assets/cards/minecraft.svg" alt="Where I started: Minecraft plugins in Java, from 2019 to 2023" width="100%" /></a></td>
 </tr>
 </table>
 
-## Project constellation
+## Projects by area
 
 | Area | Repositories / work |
 | --- | --- |
 | **Computer Architecture** | [GPGPU](https://github.com/ACrispyCookie/GPGPU), [ECE494 Microprocessor Design](https://github.com/ACrispyCookie/ECE494-Microprocessor-Design) |
 | **HPC / CUDA** | [ECE415 High-Performance Computing](https://github.com/ACrispyCookie/ECE415-High-Performance-Computing) |
 | **Distributed + OS** | [ECE348 Distributed Systems](https://github.com/ACrispyCookie/ECE348-Distributed-Systems), [ECE318 Operating Systems](https://github.com/ACrispyCookie/ECE318-Operating-Systems), [ECE321 Concurrent Programming](https://github.com/ACrispyCookie/ECE321-Concurrent-Programming) |
-| **FPGA / embedded / digital** | [Live FPGA Lab](https://github.com/ACrispyCookie/Live-FPGA-Lab) , [DVD Logo on FPGA](https://github.com/ACrispyCookie/DVD-Logo-FPGA), [ECE333 Digital Systems Lab](https://github.com/ACrispyCookie/ECE333-Digital-Systems-Lab), [ECE340 Embedded Systems](https://github.com/ACrispyCookie/ECE340-Embedded-Systems), [ECE219 Computer Organization](https://github.com/ACrispyCookie/ECE219-Computer-Organization) |
+| **FPGA / embedded / digital** | [Live FPGA Lab](https://github.com/ACrispyCookie/Live-FPGA-Lab), [DVD Logo on FPGA](https://github.com/ACrispyCookie/DVD-Logo-FPGA), [ECE333 Digital Systems Lab](https://github.com/ACrispyCookie/ECE333-Digital-Systems-Lab), [ECE340 Embedded Systems](https://github.com/ACrispyCookie/ECE340-Embedded-Systems), [ECE219 Computer Organization](https://github.com/ACrispyCookie/ECE219-Computer-Organization) |
 | **Security + wireless** | [ECE455 Hardware Security](https://github.com/ACrispyCookie/ECE455-Hardware-Security), [ECE436 Wireless Communications](https://github.com/ACrispyCookie/ECE436-Wireless-Communications) |
 | **Graphics** | [ECE433 Computer Graphics](https://github.com/ACrispyCookie/ECE433-Computer-Graphics) |
-| **Minecraft / Java tooling** | [DynamicDisplays](https://github.com/ACrispyCookie/DynamicDisplays), [CrispyPluginAPI](https://github.com/ACrispyCookie/CrispyPluginAPI), [CrispyCommons](https://github.com/ACrispyCookie/CrispyCommons), [ColonyModeration](https://github.com/ACrispyCookie/ColonyModeration), [ColonySkyblockCore](https://github.com/ACrispyCookie/ColonySkyblockCore), [ColonyHubCore](https://github.com/ACrispyCookie/ColonyHubCore), [ColonyVikingItems](https://github.com/ACrispyCookie/ColonyVikingItems), and many more [minecraft projects](https://acrispycookie.dev) |
+| **Minecraft / Java tooling** | [DynamicDisplays](https://github.com/ACrispyCookie/DynamicDisplays), [CrispyPluginAPI](https://github.com/ACrispyCookie/CrispyPluginAPI), [CrispyCommons](https://github.com/ACrispyCookie/CrispyCommons), [ColonyModeration](https://github.com/ACrispyCookie/ColonyModeration), [ColonySkyblockCore](https://github.com/ACrispyCookie/ColonySkyblockCore), [ColonyHubCore](https://github.com/ACrispyCookie/ColonyHubCore), [ColonyVikingItems](https://github.com/ACrispyCookie/ColonyVikingItems), and more [Minecraft projects](https://acrispycookie.dev) |
 | **General tooling** | [KoukBot](https://github.com/ACrispyCookie/KoukBot), [AutoRapidTest](https://github.com/ACrispyCookie/AutoRapidTest), [GoWin-Docker-Image](https://github.com/ACrispyCookie/GoWin-Docker-Image), [dotfiles](https://github.com/ACrispyCookie/dotfiles) |
 
 ## Technologies and activity
